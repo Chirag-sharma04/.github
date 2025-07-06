@@ -1,0 +1,16 @@
+# Configuration for Welcome Bot - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+newIssueWelcomeComment: >
+  Thanks for opening your first issue here!  
+
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+newPRWelcomeComment: >
+  Thanks for submitting your first pull request!  
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+firstPRMergeComment: >
+  Congrats on merging your first pull request!  
+  We're proud of you and excited to have your contribution.
+
+# Tip: Add emojis and gifs to make messages more engaging!
